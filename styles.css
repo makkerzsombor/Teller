@@ -32,3 +32,9 @@ table {
 ul {
   list-style-image: url('physics_icon.png');
 }
+.tell{
+  font-weight: 800;
+}
+.tell:hover{
+  color: red;
+}
